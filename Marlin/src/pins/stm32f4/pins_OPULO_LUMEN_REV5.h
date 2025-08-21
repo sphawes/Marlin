@@ -124,7 +124,7 @@
 
 //#define FAN_SOFT_PWM_REQUIRED
 
-#define BEEPER_PIN                          PB10
+#define BEEPER_PIN                          PA7
 
 //
 // Neopixel
